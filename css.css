@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+nav{
+    text-align: center;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(131, 252, 230);
+}
+/*div #wrapper{*/
+    /*background-color: cornflowerblue;*/
+/*}*/
+footer{
+    background-color: rgb(6, 224, 184);
+}
